@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Happy Christmas
+          Happy NewYear
         </a>
       </header>
     </div>
